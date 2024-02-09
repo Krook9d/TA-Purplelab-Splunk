@@ -42,11 +42,11 @@ To install the PurpleLab Integration App for Splunk, follow these simple steps:
 
 ## Screenshots
 
-![PurpleLab Integration Dashboard](/Purplelabsplunkaddonhunting.png)
 *PurpleLab Integration Dashboard*
-
 ![Threat Hunting Dashboard](/Purplelabsplunkaddon.png)
+
 *Threat Hunting Dashboard*
+![PurpleLab Integration Dashboard](/Purplelabsplunkaddonhunting.png)
 
 ## Support
 
