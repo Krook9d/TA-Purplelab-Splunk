@@ -1,3 +1,6 @@
+
+![TA-Purplelab Banner](URL_OF_YOUR_BANNER_IMAGE)
+
 # PurpleLab Integration App for Splunk
 
 ## Overview
