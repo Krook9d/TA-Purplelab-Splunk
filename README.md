@@ -25,7 +25,7 @@ Some configuration steps are required to fully integrate the app with your Purpl
 
 To install the PurpleLab Integration App for Splunk, follow these simple steps:
 
-1. Download the app package from the release page
+1. Download the app package .spl from the release page
 2. In Splunk, navigate to `Manage Apps > Install app from file`.
 3. Upload the downloaded app package and click `Upload`.
 4. Once installed, restart Splunk to apply the changes.
