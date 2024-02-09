@@ -1,5 +1,5 @@
 
-![TA-Purplelab Banner](URL_OF_YOUR_BANNER_IMAGE)
+![TA-Purplelab Banner](/banner.webp)
 
 # PurpleLab Integration App for Splunk
 
