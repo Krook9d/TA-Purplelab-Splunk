@@ -55,8 +55,4 @@ To install the PurpleLab Integration App for Splunk, follow these simple steps:
 
 ## Support
 
-For support and further assistance, please open an issue
-
-## License
-
-This app is provided under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See LICENSE for more details.
+For support and further assistance, please open an issue 
