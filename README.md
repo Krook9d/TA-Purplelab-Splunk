@@ -7,8 +7,7 @@
 
 The PurpleLab Integration App for Splunk enhances your security operations by seamlessly integrating with PurpleLab. This app enables users to effortlessly launch Atomic Red Team tests on the PurpleLab platform and conduct threat hunting directly from within Splunk's interface. Designed for security analysts and operations teams, it streamlines the process of testing and validating detection rules against a wide range of simulated attack techniques.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zYzVsxtSAtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/Krook9d/TA-Purplelab-Splunk/assets/40600995/eb5d0c27-06e5-416d-b707-af806c02323e
 
 ## Features
 
