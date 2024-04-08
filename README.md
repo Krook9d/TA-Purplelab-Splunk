@@ -32,7 +32,7 @@ To install the PurpleLab Integration App for Splunk, follow these simple steps:
 3. Upload the downloaded app package and click `Upload`.
 4. Create new lookup name "atomictest.csv" with this CSV file https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/Indexes/Indexes-CSV/index.csv
 5. rename the field to have "Test Technique TechniqueName ExecutorName TestName Tactic TestGUID" 
-6. go to /opt/splunk/etc/apps/Ta-Purplelab/bin/mitrepurplelab.py and change the Token with the token you generate on the Purplelab Tool & restart Splunk to apply the changes.
+6. go to /opt/splunk/etc/apps/Ta-Purplelab/bin/mitrepurplelab.py and change the Token with the token you generate on the Purplelab Tool and the IP of the purplelab server & restart Splunk to apply the changes.
 
 ## Using the App
 
